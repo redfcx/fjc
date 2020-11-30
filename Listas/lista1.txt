@@ -97,7 +97,6 @@ https://images.habbo.com/dcr/hof_furni/64270/tokyo_c18_sakura.swf*
 https://images.habbo.com/dcr/hof_furni/56884/val15_corner.swf*
 https://images.habbo.com/dcr/hof_furni/57017/val15_divider.swf*
 https://images.habbo.com/dcr/hof_furni/56884/val15_fujiwall.swf*
-https://images.habbo.com/dcr/hof_furni/56884/val15_petals.swf*
 https://images.habbo.com/dcr/hof_furni/56884/val15_rock1.swf*
 https://images.habbo.com/dcr/hof_furni/57017/val15_shrub.swf*
 https://images.habbo.com/dcr/hof_furni/57017/val15_tree.swf*
@@ -111,7 +110,6 @@ https://images.habbo.com/dcr/hof_furni/64132/coralking_c18_tropicalfish.swf*
 https://images.habbo.com/dcr/hof_furni/56746/lc_medusa1.swf*
 https://images.habbo.com/dcr/hof_furni/64132/coralking_c18_clownfish.swf*
 https://images.habbo.com/dcr/hof_furni/56913/attic15_crn.swf*
-https://images.habbo.com/dcr/hof_furni/65782/rainyday_c20_snugblanket.swf*
 https://images.habbo.com/dcr/hof_furni/65782/rainyday_c20_homebakes.swf*
 https://images.habbo.com/dcr/hof_furni/65782/rainyday_c20_woodentable.swf*
 https://images.habbo.com/dcr/hof_furni/48478/tree6.swf*
